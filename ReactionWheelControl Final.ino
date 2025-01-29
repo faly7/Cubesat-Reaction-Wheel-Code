@@ -2,8 +2,8 @@
  * CubeSat Reaction Wheel — Primary Board Firmware
  *
  * Microcontroller: ATSAMD21
- * Motor Driver:  TI MCT8316 (Brushless motor driver w/ Hall sensors)
- * Motor:         Maxon ECX Flat (sensored BLDC)
+ * Motor Driver:  TI MCT8316 
+ * Motor:         Maxon ECX Flat
  * Author:        Fahd Aly (faly7@gatech.edu)
  * This code reads command inputs (RPM or torque) from UART, uses the Hall interrupts
  * to measure current wheel speed, runs a PID controller, and drives the motor driver.
