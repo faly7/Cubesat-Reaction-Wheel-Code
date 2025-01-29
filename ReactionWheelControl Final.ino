@@ -1,5 +1,5 @@
 /******************************************************************************
- * CubeSat Reaction Wheel — Primary Board Firmware
+ * CubeSat Reaction Wheel — Primary Board Code
  *
  * Microcontroller: ATSAMD21
  * Motor Driver:  TI MCT8316 
