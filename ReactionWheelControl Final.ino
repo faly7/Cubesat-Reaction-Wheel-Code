@@ -16,7 +16,7 @@
 // 1. Pin Definitions and Constants
 // ---------------------------------------------------------------------------
 
-// PLACE HOLDER PINS! Change them once the hardware arrives!
+// PLACE HOLDER PINS! I'll them once the hardware arrives!
 const int MCT8316_ENABLE_PIN    = 2;   // Enable pin for the driver
 const int MCT8316_DIRECTION_PIN = 3;   // Direction enable pin
 const int MCT8316_PWM_PIN       = 5;   // PWM input pin
