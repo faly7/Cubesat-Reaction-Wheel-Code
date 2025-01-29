@@ -22,7 +22,7 @@ const int MCT8316_DIRECTION_PIN = 3;   // Direction enable pin
 const int MCT8316_PWM_PIN       = 5;   // PWM input pin
 const int MCT8316_CS_PIN        = 4;   // Chip Select pin
 
-// Hall sensor inputs (GPIO pins), change these pins as well to the correct ones:
+// Hall sensor inputs (GPIO pins), I'll change these pins as well to the correct ones:
 const int HALL_A_PIN            = 6;
 const int HALL_B_PIN            = 7;
 const int HALL_C_PIN            = 8;
