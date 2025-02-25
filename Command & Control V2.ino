@@ -93,7 +93,7 @@
  // 2.1 Integration with Primary Microcontroller
  // ---------------------------------------------------------------------------
  // We use Serial1 to communicate with the primary reaction wheel board.
- // Ensure that the wiring on the Teensy 4.1 board assigns the correct TX/RX pins for Serial1.
+ // Fahd - Ensure that the wiring on the Teensy 4.1 board assigns the correct TX/RX pins for Serial1.
  #define PRIMARY_BAUD 115200
  HardwareSerial &primarySerial = Serial1;
  
